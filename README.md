@@ -1,6 +1,6 @@
 # Game Play Stream Mobile App
 
-![Game Play](./screenshot.png)
+<img src="./screenshot.png" width="200" height="400">
 
 - [Design](https://www.figma.com/design/BMl4ux6uwdvwrLwHDGooeI/GamePlay--Community-?node-id=58801-981&t=78arBOPOV2mmLfJ4-1)
 
